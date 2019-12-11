@@ -1,2 +1,2 @@
 # E-commerce
-Fall 2019 e-commerce class 
+I created this website using php, for my HUW111 class.
